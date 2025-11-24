@@ -56,19 +56,6 @@ I am an **AI-focused Software Engineer** based in Egypt, specialized in bridging
 *A complete DevOps implementation for container orchestration.*
 * **Tech:** Kubernetes (EKS), Jenkins, AWS ECR, Docker, Java/Maven.
 * **Features:** Automated deployment pipeline using private Docker registries.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engmohammed99&show_icons=true&theme=tokyonight)](https://github.com/engmohammed99)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engmohammed99&layout=compact&theme=tokyonight)](https://github.com/engmohammed99)
-
-</div>
-
 ---
 
 ### 📜 Certifications
