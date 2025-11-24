@@ -10,12 +10,73 @@
 [![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:engmohammedashraf99@gmail.com)
 
 </div>
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DvE3W2r8yzTAAF76RTiXVSMe3yR7f3nb/view?usp=sharing](https://drive.google.com/file/d/1DvE3W2r8yzTAAF76RTiXVSMe3yR7f3nb/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-ashraf-elhesesy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-ashraf-elhesesy" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🚀 About Me
+
+I am an **AI-focused Software Engineer** based in Egypt, specialized in bridging the gap between traditional software development and modern Artificial Intelligence. I have a passion for building end-to-end AI applications, intelligent automation systems, and robust CI/CD pipelines.
+
+* 🔭 **Currently working on:** Building autonomous AI Agents and RAG systems.
+* 💼 **Experience:** AI Software Engineer at Trill Marketing Agency & Sodoco.
+* 🎓 **Education:** Bachelor of Computer Engineering, El Shorouk Academy.
+* 🌱 **Learning:** constantly exploring Deep Learning and Advanced Agentic Workflows.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| **AI & ML** | **Backend & API** | **Frontend** | **DevOps & Cloud** |
+|:---:|:---:|:---:|:---:|
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) |
+| ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) |
+| ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) |
+| **Vector DBs** | **Linux** | **JavaScript** | **Terraform** |
+
+</div>
+
+---
+
+### 🏆 Featured Projects
+
+#### 🤖 **[AI-Powered Customer Service Chatbot](https://github.com/engmohammed99)**
+*An intelligent chatbot for a PC store automated using n8n and OpenAI.*
+* **Tech:** n8n, OpenAI GPT-4, Pinecone, Supabase, Facebook Messenger API.
+* **Features:** RAG implementation synced with Google Drive product data to provide accurate recommendations.
+
+#### 🗣️ **[PollyGlot Translator](https://github.com/engmohammed99/PollyGlot-Translator)**
+*A full-stack AI translation app utilizing Agentic Workflows.*
+* **Tech:** Node.js, Express.js, OpenAI Agents SDK, Vanilla JS.
+* **Features:** Context-aware "Translation Agent" optimized for speed and reliability.
+
+#### ☸️ **[EKS & CI/CD Pipeline](https://github.com/engmohammed99/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR)**
+*A complete DevOps implementation for container orchestration.*
+* **Tech:** Kubernetes (EKS), Jenkins, AWS ECR, Docker, Java/Maven.
+* **Features:** Automated deployment pipeline using private Docker registries.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+[![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engmohammed99&show_icons=true&theme=tokyonight)](https://github.com/engmohammed99)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engmohammed99&layout=compact&theme=tokyonight)](https://github.com/engmohammed99)
+
+</div>
+
+---
+
+### 📜 Certifications
+* **Associate AI Engineer** - DataCamp
+* **AI Engineer Path** - Scrimba
+* **Object Oriented Programming in Python** - Boot.dev
+* **Working with OpenAI API** - DataCamp
+
+<div align="center">
+  <small><i>Let's build the future of AI together.</i></small>
+</div>
