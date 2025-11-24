@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mohammed Ashraf</h1>
-<h3 align="center">A passionate AI Software Engineer</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Al-Khwarizmi**
+# Hi there, I'm Mohammed Ashraf 👋
 
-- 🌱 I’m currently learning **Boot.dev - DataCamp**
+### AI Software Engineer | Intelligent Automation Specialist
 
-- 💬 Ask me about **AI Software Engineering**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=AI+Agent+Developer;Full+Stack+Engineer;DevOps+%26+CI%2FCD+Enthusiast;Automation+Expert)](https://git.io/typing-svg)
 
-- 📫 How to reach me **engmohammedashraf99@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammed-ashraf-elhesesy)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:engmohammedashraf99@gmail.com)
 
+</div>
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DvE3W2r8yzTAAF76RTiXVSMe3yR7f3nb/view?usp=sharing](https://drive.google.com/file/d/1DvE3W2r8yzTAAF76RTiXVSMe3yR7f3nb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
