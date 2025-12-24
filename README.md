@@ -41,7 +41,11 @@ I am an **AI-focused Software Engineer** based in Egypt, specialized in bridging
 ---
 
 ### 🏆 Featured Projects
+### ⚛️**React Projects:**
+- ### [Assembly-End-Game](https://github.com/engmohammed99/AssemblyEndGame) ([LiveDemo](https://dancing-semolina-0420ac.netlify.app/)) 
+- ### [Chef-Claude](https://github.com/engmohammed99/ChefClaude)
 
+	
 #### 🤖 **[AI-Powered Customer Service Chatbot](https://github.com/engmohammed99/AI-Powered-Store-Customer-Service-Chatbot)**
 *An intelligent chatbot for a PC store automated using n8n and OpenAI.*
 * **Tech:** n8n, OpenAI GPT-4, Pinecone, Supabase, Facebook Messenger API.
