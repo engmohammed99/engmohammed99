@@ -42,7 +42,7 @@ I am an **AI-focused Software Engineer** based in Egypt, specialized in bridging
 
 ### 🏆 Featured Projects
 
-#### 🤖 **[AI-Powered Customer Service Chatbot]([https://github.com/engmohammed99](https://github.com/engmohammed99/AI-Powered-Store-Customer-Service-Chatbot))**
+#### 🤖 **[AI-Powered Customer Service Chatbot](https://github.com/engmohammed99/AI-Powered-Store-Customer-Service-Chatbot)**
 *An intelligent chatbot for a PC store automated using n8n and OpenAI.*
 * **Tech:** n8n, OpenAI GPT-4, Pinecone, Supabase, Facebook Messenger API.
 * **Features:** RAG implementation synced with Google Drive product data to provide accurate recommendations.
