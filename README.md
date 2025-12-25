@@ -42,9 +42,20 @@ I am an **AI-focused Software Engineer** based in Egypt, specialized in bridging
 
 ### 🏆 Featured Projects
 ### ⚛️**React Projects:**
-- ### [Assembly-End-Game](https://github.com/engmohammed99/AssemblyEndGame) ([LiveDemo](https://dancing-semolina-0420ac.netlify.app/)) 
+- ### [Assembly-End-Game](https://dancing-semolina-0420ac.netlify.app/) 
+	- 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/AssemblyEndGame)
 - ### [Chef-Claude](https://github.com/engmohammed99/ChefClaude)
+	 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/ChefClaude)
+- ### [MemeGenerator](https://unrivaled-paletas-4f0057.netlify.app/)
+  - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Meme-Generator)
+- ### [Vanlife](https://github.com/engmohammed99/VanLife)
+  - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/VanLife)
 
+### 🌐**BackEnd Projects:**
+ - ### [PokedexAPI](https://github.com/engmohammed99/PokedexAPI)
+	 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/PokedexAPI)
+### 🧠**Machine Learning :**	
+- 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Machine-Learning)
 	
 #### 🤖 **[AI-Powered Customer Service Chatbot](https://github.com/engmohammed99/AI-Powered-Store-Customer-Service-Chatbot)**
 *An intelligent chatbot for a PC store automated using n8n and OpenAI.*
