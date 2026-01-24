@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi there, I'm Mohammed Ashraf 👋
@@ -58,15 +59,18 @@ I am an **AI-focused Software Engineer** based in Egypt, specialized in bridging
 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Machine-Learning)
 ### 🕸**Deep Learning :**	
 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Deep-Learning)
-#### 🤖 **[AI-Powered Customer Service Chatbot](https://github.com/engmohammed99/AI-Powered-Store-Customer-Service-Chatbot)**
-*An intelligent chatbot for a PC store automated using n8n and OpenAI.*
-* **Tech:** n8n, OpenAI GPT-4, Pinecone, Supabase, Facebook Messenger API.
-* **Features:** RAG implementation synced with Google Drive product data to provide accurate recommendations.
+### ֎🇦🇮 **LLM Engineering :**	
+- 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Deep-Learning)
+### 🤖 **AI Projects :**	
+- ####  **[AI-Powered Customer Service Chatbot](https://github.com/engmohammed99/AI-Powered-Store-Customer-Service-Chatbot)**
+    *An intelligent chatbot for a PC store automated using n8n and OpenAI.*
+  * **Tech:** n8n, OpenAI GPT-4, Pinecone, Supabase, Facebook Messenger API.
+  * **Features:** RAG implementation synced with Google Drive product data to provide accurate recommendations.
 
-#### 🗣️ **[PollyGlot Translator](https://github.com/engmohammed99/PollyGlot-Translator)**
-*A full-stack AI translation app utilizing Agentic Workflows.*
-* **Tech:** Node.js, Express.js, OpenAI Agents SDK, Vanilla JS.
-* **Features:** Context-aware "Translation Agent" optimized for speed and reliability.
+- #### 🗣️ **[PollyGlot Translator](https://github.com/engmohammed99/PollyGlot-Translator)**
+  *A full-stack AI translation app utilizing Agentic Workflows.*
+  * **Tech:** Node.js, Express.js, OpenAI Agents SDK, Vanilla JS.
+  * **Features:** Context-aware "Translation Agent" optimized for speed and reliability.
 
 #### ☸️ **[EKS & CI/CD Pipeline](https://github.com/engmohammed99/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR)**
 *A complete DevOps implementation for container orchestration.*
