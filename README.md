@@ -60,7 +60,7 @@ I am an **AI-focused Software Engineer** based in Egypt, specialized in bridging
 ### 🕸**Deep Learning :**	
 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Deep-Learning)
 ### ֎🇦🇮 **LLM Engineering :**	
-- 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Deep-Learning)
+- 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/LLM-Engineering)
 ### 🤖 **AI Projects :**	
 - ####  **[AI-Powered Customer Service Chatbot](https://github.com/engmohammed99/AI-Powered-Store-Customer-Service-Chatbot)**
     *An intelligent chatbot for a PC store automated using n8n and OpenAI.*
