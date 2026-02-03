@@ -55,6 +55,9 @@ I am an **AI-focused Software Engineer** based in Egypt, specialized in bridging
 ### 🌐**BackEnd Projects:**
  - ### [PokedexAPI](https://github.com/engmohammed99/PokedexAPI)
 	 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/PokedexAPI)
+ - ### [Blog Aggrigator](https://github.com/engmohammed99/Blog-Aggrigator/tree/main)
+	 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Blog-Aggrigator/tree/main)
+
 - ### [Chirps(HTTP Server)](https://github.com/engmohammed99/Chirps-httpServer-/tree/main)
 	 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Chirps-httpServer-/tree/main)
 ### 🧠**Machine Learning :**	
