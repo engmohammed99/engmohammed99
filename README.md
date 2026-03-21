@@ -42,6 +42,17 @@ I am an **AI-focused Software Engineer** based in Egypt, specialized in bridging
 ---
 
 ### 🏆 Featured Projects
+
+### 🌐**Backend Projects:**
+- ### [Library Management System)](https://github.com/engmohammed99/Library-Management-System)
+	 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Library-Management-System)
+- ### [Chirps(HTTP Server)](https://github.com/engmohammed99/Chirps-httpServer-/tree/main)
+	 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Chirps-httpServer-/tree/main)
+ - ### [PokedexAPI](https://github.com/engmohammed99/PokedexAPI)
+	 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/PokedexAPI)
+ - ### [Blog Aggrigator](https://github.com/engmohammed99/Blog-Aggrigator/tree/main)
+	 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Blog-Aggrigator/tree/main)
+
 ### ⚛️**React Projects:**
 - ### [Assembly-End-Game](https://dancing-semolina-0420ac.netlify.app/) 
 	- 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/AssemblyEndGame)
@@ -51,15 +62,7 @@ I am an **AI-focused Software Engineer** based in Egypt, specialized in bridging
   - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Meme-Generator)
 - ### [Vanlife](https://github.com/engmohammed99/VanLife)
   - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/VanLife)
-
-### 🌐**BackEnd Projects:**
- - ### [PokedexAPI](https://github.com/engmohammed99/PokedexAPI)
-	 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/PokedexAPI)
- - ### [Blog Aggrigator](https://github.com/engmohammed99/Blog-Aggrigator/tree/main)
-	 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Blog-Aggrigator/tree/main)
-
-- ### [Chirps(HTTP Server)](https://github.com/engmohammed99/Chirps-httpServer-/tree/main)
-	 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Chirps-httpServer-/tree/main)
+  
 ### 🧠**Machine Learning :**	
 - 📂 **Source Code:** [GitHub Repository](https://github.com/engmohammed99/Machine-Learning)
 ### 🕸**Deep Learning :**	
